@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#0078a2",
   "theme": {
-    "bootswatch": "_",
-    "custom": "clean-white"
+    "bootswatch": "cosmo",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/novawebinfo",
