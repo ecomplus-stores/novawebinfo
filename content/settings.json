@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/novawebinfo",
   "logo": "/img/uploads/logo60x.webp",
   "name": "Novawebinfo",
-  "short_name": "novawebinfo",
+  "short_name": "Nova Web Info",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#680707",
   "icon": "/img/uploads/novo-projeto2.png",
   "store_id": 51258,
-  "description": "novawebinfo",
+  "description": "Soluções em Informática e Acessórios",
   "large_icon": "/img/uploads/novo-projeto2.png"
 }
