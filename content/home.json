@@ -8,14 +8,19 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/1020310.jpg"
+          "start": "2022-05-01T14:03:38.641Z",
+          "end": "2022-05-01T14:03:38.677Z",
+          "img": "/img/uploads/5020222.png"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner2.png"
+          "start": "2022-05-01T14:05:32.534Z",
+          "end": "2022-05-01T14:05:32.565Z",
+          "img": "/img/uploads/7020315.png"
+        },
+        {
+          "start": "2022-05-01T14:05:51.201Z",
+          "end": "2022-05-01T14:05:51.228Z",
+          "img": "/img/uploads/6020258.jpg"
         }
       ]
     },
