@@ -1,7 +1,7 @@
 {
   "domain": "novawebinfo.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#0078a2",
+  "primary_color": "#002c3b",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -16,9 +16,9 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/novo-projeto2.png",
-  "icons_font": "font-awesome",
+  "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#232323",
+  "secondary_color": "#d70000",
   "icon": "/img/uploads/novo-projeto2.png",
   "store_id": 51258,
   "description": "Soluções em Informática e Acessórios",
