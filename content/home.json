@@ -8,21 +8,25 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-05-01T14:03:38.641Z",
-          "end": "2022-05-01T14:03:38.677Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/5020222.png"
         },
         {
-          "start": "2022-05-01T14:05:32.534Z",
-          "end": "2022-05-01T14:05:32.565Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/7020315.png"
         },
         {
-          "start": "2022-05-01T14:05:51.201Z",
-          "end": "2022-05-01T14:05:51.228Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/6020258.jpg"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/1594061711_20200329_manual_banner_tarja.jpg"
     },
     {
       "type": "collection-shelf",
@@ -31,10 +35,6 @@
       "page": 1,
       "sort": "news",
       "title": "Lançamentos"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
