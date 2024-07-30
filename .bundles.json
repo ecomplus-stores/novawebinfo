@@ -1,26 +1,26 @@
 {
   "assetsByChunkName": {
-    "vendors~app-account~app-checkout~app-confirmation~app-order": "chunk.1e2b1b9f14b2a6515267.js",
-    "vendors~app-account~app-confirmation~app-order": "chunk.627306e341291bef8a17.js",
-    "vendors~app-account~app-checkout": "chunk.6378afa8c95057d98195.js",
+    "vendors~app-account~app-checkout~app-confirmation~app-order": "chunk.829b9368ac18ec39e134.js",
+    "vendors~app-account~app-confirmation~app-order": "chunk.4b6af05811ba0c41f548.js",
+    "vendors~app-account~app-checkout": "chunk.69ffef369d4dd84f11d8.js",
     "admin": [
-      "admin.98987d7fc089610d0676.js",
-      "admin.98987d7fc089610d0676.js.map"
+      "admin.a6cf7f1056a9e92e929e.js",
+      "admin.a6cf7f1056a9e92e929e.js.map"
     ],
-    "app-account": "chunk.40ccd933c7384c4f7e20.js",
-    "app-confirmation": "chunk.3ca9991ab7ea7592a8b0.js",
-    "app-order": "chunk.d07d29b07362123f057b.js",
+    "app-account": "chunk.cbb83b2b8744c9aeda3c.js",
+    "app-confirmation": "chunk.555c3ba6c5b7596b881f.js",
+    "app-order": "chunk.44987870bdbe0875c08d.js",
     "checkout": [
-      "checkout.25ac9d497106dacf2393.js",
-      "checkout.25ac9d497106dacf2393.js.map"
+      "checkout.4e473adbfc36a1165026.js",
+      "checkout.4e473adbfc36a1165026.js.map"
     ],
     "storefront": [
       "storefront.ae24054a7cb1e1bf5472.css",
-      "storefront.50281295315987fc57d6.js",
+      "storefront.19b04ad989112de3ad15.js",
       "storefront.ae24054a7cb1e1bf5472.css.map",
-      "storefront.50281295315987fc57d6.js.map"
+      "storefront.19b04ad989112de3ad15.js.map"
     ],
-    "vendors~app-cart": "chunk.36379e1aaeb3a86b7d43.js",
-    "vendors~app-checkout": "chunk.bba26c52655d7a8173ad.js"
+    "vendors~app-cart": "chunk.de5773b6a043153df7c0.js",
+    "vendors~app-checkout": "chunk.b8cfcbfbcb81048a6a85.js"
   }
 }
