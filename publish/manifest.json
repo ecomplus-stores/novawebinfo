@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b5603029f99f966752dcee6ca3fe3dd5.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.d988a957360eaae3b68e677fb197c911.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f1f4102aa9880f65f773b34d13b4761d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0610d51a66f85b665cd55b2b60505fa0.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9f6a0842aa2b180acd0477a1789edf28.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Novawebinfo",
+  "short_name": "Nova Web Info",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Soluções em Informática e Acessórios",
+  "background_color": "#ffffff",
+  "theme_color": "#002c3b"
+}
